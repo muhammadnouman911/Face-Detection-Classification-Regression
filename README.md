@@ -59,3 +59,22 @@ It combines **OpenCV, Deep Learning, and Regression models** to build a simple y
 
 ---
 
+## 🛠️ Tech Stack
+
+* **Python 3.x**
+* **OpenCV** for face detection
+* **Scikit-learn** for regression/classification
+* **TensorFlow / Keras** for deep learning models
+* **Google Colab / Jupyter Notebook**
+
+---
+
+## 🚀 Features
+
+✔ Detect faces in images
+✔ Classify faces into categories
+✔ Predict facial attributes with regression
+✔ End-to-end integrated face recognition system
+
+---
+
