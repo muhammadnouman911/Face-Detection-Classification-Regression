@@ -22,3 +22,40 @@ It combines **OpenCV, Deep Learning, and Regression models** to build a simple y
 
 ---
 
+## 📂 Repository Structure
+
+```
+📦 Face-Detection-Classification-Regression
+ ┣ 📜 Face_Detection.ipynb           # Face detection using ML/CV techniques
+ ┣ 📜 Face_Classification.ipynb      # Classification of detected faces
+ ┣ 📜 Face_Regression.ipynb          # Regression-based face attribute prediction
+ ┣ 📜 face_recognition_system.ipynb  # End-to-end integrated face recognition system
+ ┣ 📜 README.md                      # Project documentation
+```
+
+---
+
+## ⚙️ Installation & Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/muhammadnouman911/Face-Detection-Classification-Regression.git
+   cd Face-Detection-Classification-Regression
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open Jupyter/Colab and run:
+
+   * `Face_Detection.ipynb` for face detection
+   * `Face_Classification.ipynb` for classification
+   * `Face_Regression.ipynb` for regression tasks
+   * `face_recognition_system.ipynb` for a complete system
+
+---
+
