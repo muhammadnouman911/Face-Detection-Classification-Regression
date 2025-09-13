@@ -87,3 +87,9 @@ It combines **OpenCV, Deep Learning, and Regression models** to build a simple y
 
 ---
 
+## 🤝 Contributing
+
+Contributions are always welcome! Fork this repo, make improvements, and submit a pull request.
+
+---
+
