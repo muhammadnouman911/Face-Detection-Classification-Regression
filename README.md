@@ -78,3 +78,12 @@ It combines **OpenCV, Deep Learning, and Regression models** to build a simple y
 
 ---
 
+## 🌍 Applications
+
+* Biometric systems
+* Security & surveillance
+* Human-computer interaction
+* Emotion or attribute recognition
+
+---
+
