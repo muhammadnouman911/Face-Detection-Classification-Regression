@@ -93,3 +93,12 @@ Contributions are always welcome! Fork this repo, make improvements, and submit 
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+✨ *Bringing together detection, classification, and regression for smarter face analysis.* 👤
+
+---
